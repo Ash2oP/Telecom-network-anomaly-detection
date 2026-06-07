@@ -1,0 +1,12 @@
+# Backend Framework
+fastapi==
+uvicorn==
+
+# Data Processing & ML
+python==
+pandas==
+numpy==
+scikit-learn==
+
+# Database
+SQLAlchemy=
