@@ -1,0 +1,15 @@
+# Environments
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Data & Models
+models/*.pkl
+*.csv
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
